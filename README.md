@@ -12,7 +12,7 @@ For installation, you just need to download/clone this repository.
 ## Tutorial
 Refer to the Password_Sniffer [wiki](https://github.com/shivenchawla/Password_Sniffer/wiki) for tutorial on creating the malicious tictactoe game.
 
-# Note
+## Note
 This lab has been created only for educational purposes. Readers should practice the lab with discretion, based on hacking ethics and should not spread or utilize this code to harm others to gain their own benefits. More content about ethics of hacking can be found :
 [here](https://people.eecs.berkeley.edu/~bh/hackers.html) and [here](http://www.ieee.org/about/corporate/governance/p7-8.html).
 
